@@ -6,7 +6,7 @@
 ### 1. Overview and Features ⚙️
 ---
 
-**ProxyChecker is a simple Proxy detection tool, which can detect if an IP Adress is a Proxy. <br> </brIt>It is based on an Online API [[Link Here]("https://vpn-proxy-detection.ipify.org")] and can more precisely detect if an IP Adress is :**
+**ProxyChecker is a simple Proxy detection tool, which can detect if an IP Adress is a Proxy. <br> </brIt>It is based on an Online API [https://vpn-proxy-detection.ipify.org] and can more precisely detect if an IP Adress is :**
 
 - a Proxy
 - a VPN
