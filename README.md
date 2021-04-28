@@ -23,7 +23,7 @@
 
 **Once all of this is done, you are ready to use ProxyChecker !**
 
-### 3. Usage 🌐
+### 3. Usage ⌨️
 ---
 
 **To start ProxyChecker, type : <br>**
