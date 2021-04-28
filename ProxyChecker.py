@@ -18,7 +18,8 @@ def Menu():
 	target = input(" Enter a Server IP Adress to scan >> ")
 
 	if target == "":
-		print (" Please enter an IP Adress to check.")
+		print (Fore.RED + "\n Please enter a Server IP Adress to scan. \n")
+		Menu()
 	else:
 		Check(target)
 
