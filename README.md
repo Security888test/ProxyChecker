@@ -14,7 +14,7 @@
 ---
 
 **First of all, you have to check if you have PIP installed. <br> - If you are on Windows, it should be installed by default as you have installed Python. <br></brIf>- If you are on Linux, run ```[sudo] apt install python3 python3-pip``` to update Python3 and install PIP3. <br>**
-**Now you have to go to the ProxyChecker directoryn using : <br>```cd ProxyChecker/```(Works on both platforms).<br>**
+**Now you have to go to the ProxyChecker directory using : <br>```cd ProxyChecker/```(Works on both platforms).<br>**
 **To install all the  Python Requirements on your system, simply run : <br>**
 - Linux : ```pip3 install -r requirements.txt```<br>
 - Windows : ```pip install -r requirements.txt```
