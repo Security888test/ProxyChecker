@@ -30,4 +30,4 @@
 - Linux : ```python3 ProxyChecker.py``` <br>
 - Windows : ```python ProxyChecker.py``` <br>
 
-### **And here you go ! <br>ProxyChecker is fully interactive. <br>You only need to give an IP Adress.**
+### If you want to donate : https://www.paypal.com/paypalme/AdlerROG 💸
