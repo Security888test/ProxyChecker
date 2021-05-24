@@ -3,8 +3,6 @@
 
 **Join Discord for support : https://discord.gg/WZk6jFnYqq 🔊**
 
-<iframe src="https://discord.com/widget?id=818583546453032983&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 ### 1. Overview and Features ⚙️
 ---
 
