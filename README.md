@@ -1,7 +1,7 @@
 
 # ProxyChecker 🌐
 
-**Join Discord for support : https://discord.gg/WZk6jFnYqq 🔊**
+**Join Discord for support : https://discord.gg/G7GvFvP4qH 🔊**
 
 ### 1. Overview and Features ⚙️
 ---
@@ -29,5 +29,3 @@
 **To start ProxyChecker, type : <br>**
 - Linux : ```python3 ProxyChecker.py``` <br>
 - Windows : ```python ProxyChecker.py``` <br>
-
-### If you want to donate : https://www.paypal.com/paypalme/AdlerROG 💸
